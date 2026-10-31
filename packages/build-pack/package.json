@@ -52,7 +52,7 @@
     "@devvit/tsconfig": "0.12.23",
     "@types/tsv": "0.2.1",
     "eslint": "9.11.1",
-    "vitest": "4.0.15"
+    "vitest": "4.1.11"
   },
   "publishConfig": {
     "directory": "dist"
